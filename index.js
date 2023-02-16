@@ -1,6 +1,5 @@
 let homeScore = document.getElementById("home-score")
 let guestScore = document.getElementById("guest-score")
-let newGame = document.getElementById("reset")
 
 let hScore = 0
 let gScore = 0
